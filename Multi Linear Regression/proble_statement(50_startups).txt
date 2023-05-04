@@ -1,0 +1,13 @@
+Assignment_5_Multi_linear_regression_50_Startups
+Prepare a prediction model for profit of 50_startups data. Do transformations for getting better predictions of profit and make a table containing R^2 value for each prepared model.
+
+Ans :
+	R&D Spend -- Research and devolop spend in the past few years Administration -- spend on administration in the past few years 	Marketing Spend -- spend on Marketing in the past few years State -- states from which data is collected Profit -- profit of each 	state in the past few years
+
+Assignment_5_Multi_linear_regression_Toyota
+For ToyotaCorolla data set
+
+Ans: 
+	Consider only the below columns and prepare a prediction model for predicting Price.
+
+	("Price","Age_08_04","KM","HP","cc","Doors","Gears","Quarterly_Tax","Weight")]
